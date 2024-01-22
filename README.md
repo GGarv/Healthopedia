@@ -1,25 +1,25 @@
-## 📋 <a name="table">Table of Contents</a>
+**## 📋 <a name="table">Table of Contents</a>**
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+**1. 🤖 [Introduction](#introduction)**
+**2. ⚙️ [Tech Stack](#tech-stack)**
+**3. 🔋 [Features](#features)**
+**4. 🤸 [Quick Start](#quick-start)**
+**5. 🕸️ [Snippets](#snippets)**
+**6. 🔗 [Links](#links)**
+**7. 🚀 [More](#more)**
 
-## <a name="introduction">🤖 Introduction</a>
+**## <a name="introduction">🤖 Introduction</a>**
 
 Develop a Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+**## <a name="tech-stack">⚙️ Tech Stack</a>**
 
 - Next.js
 - MongoDB
 - NextAuth
 - TailwindCSS
 
-## <a name="features">🔋 Features</a>
+**## <a name="features">🔋 Features</a>**
 
 👉 **Modern Design with Glassmorphism Trend Style**: A modern and visually appealing design, incorporating the glassmorphism trend style for a sleek and contemporary appearance.
 
@@ -41,7 +41,7 @@ Develop a Next.js application that highlights the key features of Next.js along 
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+**## <a name="quick-start">🤸 Quick Start</a>**
 
 Follow these steps to set up the project locally on your machine.
 
@@ -65,7 +65,6 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
-```
 
 **Set Up Environment Variables**
 
