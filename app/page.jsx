@@ -1,5 +1,4 @@
 import Feed from "@components/Feed";
-import OpenRouterChat from '../components/OpenRouterChat';
 
 const Home = () => (
   <section className='w-full flex-center flex-col'>
