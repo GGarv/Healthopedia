@@ -3,8 +3,6 @@
 
 ## *Building ChatBot for Medical Healthcare using Mixtral 8x7b model, FAISS, LANGCHAIN, RAG Model, Question-Answering Pipeline*
 
-![Healthopedia](https://imgur.com/HRUauaC)
-
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
