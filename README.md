@@ -1,52 +1,35 @@
 
-## 📋 <a name="table">Table of Contents</a>
+## Table of Contents
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+1. [Introduction](#introduction)
+2. [Tech Stack](#tech-stack)
+3. [Features](#features)
+4. [Quick Start](#quick-start)
+5. [Snippets](#snippets)
+6. [Links](#links)
+7. [More](#more)
 
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 Introduction
 
 Develop a Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ Tech Stack
 
 - Next.js
 - MongoDB
 - NextAuth
 - TailwindCSS
 
-## <a name="features">🔋 Features</a>
+## 🔋 Features
 
-👉 **Modern Design with Glassmorphism Trend Style**: A modern and visually appealing design, incorporating the glassmorphism trend style for a sleek and contemporary appearance.
+- **Modern Design with Glassmorphism Trend Style:** A modern and visually appealing design, incorporating the glassmorphism trend style for a sleek and contemporary appearance.
+- ...
 
-👉 **Discover and Share AI Prompts**: Allow users to discover AI prompts shared by the community and create their own prompts to share with the world.
-
-👉 **Edit and Delete Created Prompts**: Users have the ability to edit their created prompts at any time and delete them when needed.
-
-👉 **Profile Page**: Each user gets a dedicated profile page showcasing all the prompts they've created, providing an overview of their contributions.
-
-👉 **View Other People's Profiles**: Users can explore the profiles of other creators to view the prompts they've shared, fostering a sense of community.
-
-👉 **Copy to Clipboard**: Implement a convenient "Copy to Clipboard" functionality for users to easily copy the AI prompts for their use.
-
-👉 **Search Prompts by Specific Tag**: Allow users to search for prompts based on specific tags, making it easier to find prompts related to specific topics.
-
-👉 **Google Authentication using NextAuth**: Enable secure Google authentication using NextAuth, ensuring a streamlined and trustworthy login experience.
-
-👉 **Responsive Website**: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones
-
-and many more, including code architecture and reusability 
-
-## <a name="quick-start">🤸 Quick Start</a>
+## 🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
-**Prerequisites**
+**Prerequisites:**
 
 Make sure you have the following installed on your machine:
 
@@ -54,12 +37,12 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
+**Cloning the Repository:**
 
 ```bash
 git clone https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing.git
 cd project_next_13_ai_prompt_sharing
-```
+
 
 **Installation**
 
@@ -67,7 +50,6 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
-```
 
 **Set Up Environment Variables**
 
@@ -388,34 +370,6 @@ username: {
   },
 ```
 
-</details>
-
-## <a name="links">🔗 Links</a>
-
-Assets used in the project can be found [here](https://drive.google.com/file/d/15bGW9HBImu1p3HAYalnaj2Ig_Sn-1c-f/view)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
 
 #
-#   H e a l t h o p e d i a 
- 
- 
+#
