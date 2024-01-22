@@ -1,4 +1,3 @@
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -38,7 +37,7 @@ Develop a Next.js application that highlights the key features of Next.js along 
 
 👉 **Google Authentication using NextAuth**: Enable secure Google authentication using NextAuth, ensuring a streamlined and trustworthy login experience.
 
-👉 **Responsive Website**: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones
+👉 **Responsive Website**: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones.
 
 and many more, including code architecture and reusability 
 
@@ -59,7 +58,6 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing.git
 cd project_next_13_ai_prompt_sharing
-```
 
 **Installation**
 
