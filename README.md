@@ -147,7 +147,8 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 **Running the Project**
 
 Open the `healthopedia_backend folder`, then run all the `end.ipynb` notebook to launch the server to fetch the model on feed.
-Note: this is important without it the respnses will not be generated on the website.(its the same reason why prompt generation is not showing in [https://healthopedia.vercel.app/](https://healthopedia.vercel.app/) since versel is unable to fetch the model server)
+
+Note: this is important without it the respnses will not be generated on the website.(its the same reason why prompt generation is not showing in [https://healthopedia.vercel.app/](https://healthopedia.vercel.app/)  on github since vercel is unable to fetch the model server)
 
 ```bash
 npm run dev
